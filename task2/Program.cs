@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 Console.Write("Введите день недели: ");
 int day = Convert.ToInt32(Console.ReadLine());
 if (day == 1)

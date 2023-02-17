@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\bin\Debug\net7.0\taskHW8.exe
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\bin\Debug\net7.0\taskHW8.deps.json
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\bin\Debug\net7.0\taskHW8.runtimeconfig.json
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\bin\Debug\net7.0\taskHW8.dll
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\bin\Debug\net7.0\taskHW8.pdb
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.AssemblyInfo.cs
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.dll
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\refint\taskHW8.dll
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.pdb
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\taskHW8.genruntimeconfig.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW8\obj\Debug\net7.0\ref\taskHW8.dll
