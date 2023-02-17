@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\bin\Debug\net7.0\taskHW6.exe
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\bin\Debug\net7.0\taskHW6.deps.json
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\bin\Debug\net7.0\taskHW6.runtimeconfig.json
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\bin\Debug\net7.0\taskHW6.dll
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\bin\Debug\net7.0\taskHW6.pdb
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.AssemblyInfo.cs
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.dll
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\refint\taskHW6.dll
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.pdb
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\taskHW6.genruntimeconfig.cache
+C:\Users\1\Desktop\блок схемы GB\semin\taskHW6\obj\Debug\net7.0\ref\taskHW6.dll
